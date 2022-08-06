@@ -1,0 +1,18 @@
+MTrackJ 1.5.1 Data File
+Displaying false true true 1 0 0 0 100 16 0 0 0 0 1 0 1 false false true false
+Assembly 1 FF0000
+Cluster 1 FF0000
+Track 1 FF0000 true
+Point 2 1062.0 786.0 1.0 4.0 1.0
+Point 1 1247.0 799.0 1.0 6.0 1.0
+Point 3 1140.0 692.0 1.0 18.0 1.0
+Point 4 1164.0 607.0 1.0 56.0 1.0
+Point 7 1016.0 622.0 1.0 80.0 1.0
+Point 5 1229.0 619.0 1.0 81.0 1.0
+Point 8 993.0 537.0 1.0 82.0 1.0
+Point 9 1107.0 650.0 1.0 86.0 1.0
+Point 10 1292.0 649.0 1.0 105.0 1.0
+Point 11 1173.0 577.0 1.0 145.0 1.0
+Point 12 1262.0 565.0 1.0 158.0 1.0
+Point 13 1019.0 655.0 1.0 192.0 1.0
+End of MTrackJ Data File

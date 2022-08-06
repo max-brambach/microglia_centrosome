@@ -1,0 +1,13 @@
+
+Intensity Center Ch=2 Img=1
+ ==================== 
+Intensity Center,Unit,Category,Channel,Image,Time,TrackID,ID,
+220,,Spot,2,Image 1,103,1000210721,210721,
+216,,Spot,2,Image 1,104,1000210721,210722,
+224,,Spot,2,Image 1,105,1000210721,210723,
+222,,Spot,2,Image 1,106,1000210721,210724,
+210,,Spot,2,Image 1,107,1000210721,210725,
+216,,Spot,2,Image 1,124,1000210726,210726,
+218,,Spot,2,Image 1,125,1000210726,210727,
+232,,Spot,2,Image 1,126,1000210726,210728,
+198,,Spot,2,Image 1,127,1000210726,210729,
